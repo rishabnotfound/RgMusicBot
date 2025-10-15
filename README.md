@@ -1,5 +1,7 @@
 # RgMusicBot
 
+<img width="1044" height="468" alt="image" src="https://github.com/user-attachments/assets/13ef9ccd-c49e-45e1-8870-490f81ba16c4" />
+
 🎵 Welcome to RgMusicBot! 🎶
 
 RgMusicBot is a versatile and feature-rich Discord music bot designed to enhance your server's audio experience. Whether you're chilling with friends, hosting gaming sessions, or throwing a virtual party, RgMusicBot has got you covered with its extensive range of features and seamless integration with Discord.
